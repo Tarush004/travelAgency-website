@@ -29,10 +29,6 @@ Insert screenshots of your project to give users a visual preview.
 - Bootstrap
 - JavaScript
 
-## Installation
-
-1. Clone the repository: https://kavindu95.github.io/Travel-Tour-Website-Using-HTML-CSS-BOOTSTRAP-5/
-2. Open the project in your code editor.
 
 ## Usage
 
@@ -42,12 +38,8 @@ Describe how to use your project and provide any necessary instructions.
 
 If you'd like to contribute to this project, please follow these guidelines.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- Your Name - [Kavindu95](https://github.com/Kavindu95)
-- Email: kavindueng95@gmail.com
-- Project Link: [GitHub](https://kavindu95.github.io/Travel-Tour-Website-Using-HTML-CSS-BOOTSTRAP-5/)
+- Your Name -TarushChawla
+- Email: 04tarushchawla04@gmail.com
